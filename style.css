@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pacifico&display=swap');
+
+
+header {
+    background-color: rgba(137, 43, 226, 0.637);
+}
+
+header .container h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    color: #FFD700;
+}
+
+header .container .nav-pills a {
+    font-weight: bold;
+    font-size: 20px;
+    color: #D3D3D3;
+}
+
