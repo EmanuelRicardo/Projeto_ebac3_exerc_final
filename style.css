@@ -17,8 +17,14 @@ header .container .nav-pills a {
     color: #d3d3d3b7;
 }
 
-.carousel img {
-    width: 100%;
+#carousel {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+#carousel img, 
+#carousel {
+    width: 1000px;
     height: 400px;
 }
 
